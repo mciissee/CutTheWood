@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 6a9f3c6e64f35f04d9b060a97a119596
+timeCreated: 1496876677
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Woods_0
+    21300002: Woods_1
+    21300004: Woods_2
+    21300006: Woods_3
+    21300008: Woods_4
+    21300010: Woods_5
+    21300012: Woods_6
+    21300014: Woods_7
+    21300016: Woods_8
+    21300018: Woods_9
+    21300020: Woods_10
+    21300022: Woods_11
+    21300024: Woods_12
+    21300026: Woods_13
+    21300028: Woods_14
+    21300030: Woods_15
+    21300032: Woods_16
+    21300034: Woods_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Woods_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 354
+        width: 91
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32.5, y: 155}
+        - {x: -42.5, y: 155}
+        - {x: -45.5, y: 141}
+        - {x: -45.5, y: -155}
+        - {x: 28.5, y: -155}
+        - {x: 44.5, y: -148}
+        - {x: 45.5, y: -139}
+        - {x: 45.5, y: 16}
+    - name: Woods_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 522
+        width: 73
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 78.5}
+        - {x: -36.5, y: -71.5}
+        - {x: -32.5, y: -78.5}
+        - {x: 36.5, y: -78.5}
+        - {x: 36.5, y: 78.5}
+    - name: Woods_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 348
+        width: 50
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -145.5}
+        - {x: -22, y: -152.5}
+        - {x: 21, y: -152.5}
+        - {x: 25, y: -150.5}
+        - {x: 25, y: 77.5}
+        - {x: 23, y: 152.5}
+        - {x: -18, y: 152.5}
+        - {x: -25, y: 149.5}
+    - name: Woods_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 511
+        width: 44
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 80}
+        - {x: -22, y: -78}
+        - {x: -14, y: -80}
+        - {x: 19, y: -80}
+        - {x: 22, y: -78}
+        - {x: 22, y: 78}
+        - {x: 20, y: 80}
+    - name: Woods_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 339
+        width: 91
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: -61}
+        - {x: 35.5, y: 154}
+        - {x: 31.5, y: 155}
+        - {x: -45.5, y: 155}
+        - {x: -45.5, y: -154}
+        - {x: -42.5, y: -155}
+        - {x: 28.5, y: -155}
+        - {x: 45.5, y: -114}
+        - {x: 45.5, y: -60}
+        - {x: 44.5, y: -59}
+    - name: Woods_5
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 494
+        width: 91
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 78.5}
+        - {x: -42.5, y: -78.5}
+        - {x: 34.5, y: -78.5}
+        - {x: 34.5, y: 76.5}
+        - {x: 31.5, y: 78.5}
+    - name: Woods_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 342
+        width: 91
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: 85}
+        - {x: -45.5, y: 78}
+        - {x: -45.5, y: -85}
+        - {x: 42.5, y: -85}
+        - {x: 45.5, y: -83}
+        - {x: 45.5, y: 85}
+    - name: Woods_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 336
+        width: 49
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 78}
+        - {x: -24.5, y: 68}
+        - {x: -24.5, y: -70}
+        - {x: -10.5, y: -78}
+        - {x: 10.5, y: -78}
+        - {x: 24.5, y: -76}
+        - {x: 24.5, y: 77}
+        - {x: 23.5, y: 78}
+    - name: Woods_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 152
+        width: 102
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 76}
+        - {x: -51, y: 57}
+        - {x: -51, y: -46}
+        - {x: -49, y: -64}
+        - {x: -41, y: -76}
+        - {x: 29, y: -76}
+        - {x: 51, y: -68}
+        - {x: 51, y: 74}
+        - {x: 42, y: 76}
+    - name: Woods_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 15
+        width: 118
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: -25.5}
+        - {x: 56, y: 117.5}
+        - {x: 34, y: 124.5}
+        - {x: -44, y: 124.5}
+        - {x: -59, y: 106.5}
+        - {x: -59, y: -118.5}
+        - {x: -46, y: -124.5}
+        - {x: 33, y: -124.5}
+        - {x: 59, y: -51.5}
+        - {x: 59, y: -25.5}
+    - name: Woods_10
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 44
+        width: 40
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 103.5}
+        - {x: -20, y: 101.5}
+        - {x: -20, y: -94.5}
+        - {x: -12, y: -103.5}
+        - {x: 8, y: -103.5}
+        - {x: 20, y: -97.5}
+        - {x: 20, y: 94.5}
+        - {x: 13, y: 103.5}
+    - name: Woods_11
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 136
+        width: 39
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 58}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: -48}
+        - {x: -15.5, y: -57}
+        - {x: -12.5, y: -58}
+        - {x: 13.5, y: -58}
+        - {x: 19.5, y: -53}
+        - {x: 19.5, y: 48}
+        - {x: 11.5, y: 58}
+    - name: Woods_12
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 61
+        width: 106
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 109}
+        - {x: -47, y: 97}
+        - {x: -53, y: 97}
+        - {x: -53, y: -109}
+        - {x: 46, y: -109}
+        - {x: 53, y: -101}
+        - {x: 53, y: 88}
+        - {x: 38, y: 109}
+    - name: Woods_13
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 178
+        width: 109
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: 61.5}
+        - {x: -50.5, y: 60.5}
+        - {x: -54.5, y: 48.5}
+        - {x: -54.5, y: -58.5}
+        - {x: -47.5, y: -61.5}
+        - {x: 54.5, y: -61.5}
+        - {x: 54.5, y: 48.5}
+        - {x: 47.5, y: 61.5}
+    - name: Woods_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 115
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 74.5}
+        - {x: -57.5, y: 65.5}
+        - {x: -57.5, y: -64.5}
+        - {x: -44.5, y: -74.5}
+        - {x: 30.5, y: -74.5}
+        - {x: 57.5, y: 0.5}
+        - {x: 57.5, y: 39.5}
+        - {x: 25.5, y: 74.5}
+    - name: Woods_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5
+        width: 40
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 62.5}
+        - {x: -20, y: -53.5}
+        - {x: -14, y: -62.5}
+        - {x: 20, y: -62.5}
+        - {x: 20, y: 62.5}
+    - name: Woods_16
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 32
+        width: 127
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 66}
+        - {x: -63.5, y: 56}
+        - {x: -63.5, y: -60}
+        - {x: -56.5, y: -66}
+        - {x: 62.5, y: -66}
+        - {x: 63.5, y: -65}
+        - {x: 63.5, y: 66}
+    - name: Woods_17
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 327
+        width: 92
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 42}
+        - {x: 35, y: 83}
+        - {x: -43, y: 83}
+        - {x: -43, y: -83}
+        - {x: 23, y: -83}
+        - {x: 25, y: -82}
+        - {x: 36, y: -70}
+        - {x: 46, y: -19}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
